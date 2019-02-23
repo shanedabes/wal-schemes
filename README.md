@@ -7,6 +7,7 @@ With credit to:
 - [Ashley Trinh](http://imsca.red/term-themes/)
 - [chester](https://github.com/csutter/chester-iterm2-colors)
 - [cosmic_latte](https://github.com/nightsense/cosmic_latte)
+- [duotone](https://github.com/codehugger/duotone-terminal)
 - [falcon](https://github.com/fenetikm/falcon)
 - [Gogh](https://github.com/Mayccoll/Gogh)
 - [Fairyfloss](https://github.com/sailorhg/fairyfloss)
